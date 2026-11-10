@@ -1,0 +1,7 @@
+name = input("Enter name: ")
+section = input("Enter section: ") 
+favorite_subject = input("Enter favorite subject: ")
+
+print ("Name: ", name) 
+print ("Section: ", section)
+print ("Favorite subject: ", favorite_subject)
